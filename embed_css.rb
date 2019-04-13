@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# embed_css / https://www.notion.so/highereducation/embed_css-82972efe686a4030bb303bfc5941d183
+# embed_css / https://github.com/jasoncomes/Embed-CSS-Liquid-Tag
 # Takes the src param value, grabs the style content associated within the source file, and injects the styles within a style tag on the page.
 # {% embed_css src:public_path_to_your_css_file %}
 
